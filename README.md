@@ -1,2 +1,2 @@
 # contact-keeper
-🔑MERN Stack application for user to maintain his contacts
+🔑This is a full MERN stack react app for keeping contact📱
